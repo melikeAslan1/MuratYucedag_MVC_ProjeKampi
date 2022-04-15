@@ -1,1 +1,2 @@
-# Bu repsitory'de Murat Yücedağ youtube kanalındaki MVC projesini Asp.Net MVC apısını öğrenme amacıyla tekrarlıyorum.
+# 
+Bu repsitory'de Murat Yücedağ youtube kanalındaki MVC proje kampı serisini Asp.Net MVC yapısını öğrenme amacıyla tekrarlıyorum
