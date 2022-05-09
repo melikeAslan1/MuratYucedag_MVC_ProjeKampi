@@ -8,6 +8,7 @@ namespace EntityLayer.NewFolder1
 {
     class About
     {
+
         public int AboutID { get; set; }
 
         public string AboutDetails1 { get; set; }

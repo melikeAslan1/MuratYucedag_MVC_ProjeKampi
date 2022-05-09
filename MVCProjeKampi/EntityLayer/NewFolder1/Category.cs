@@ -15,5 +15,7 @@ namespace EntityLayer.NewFolder1
         public string CategoryDescripion { get; set; }
 
         public bool CategoryStatus { get; set; }
+
+        public ICollection<Heading> Headings { get; set; }
     }
 }
